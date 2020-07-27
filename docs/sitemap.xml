@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://duckduck.io/categories/</loc>
+    <loc>http://duckduck.io/</loc>
+    <lastmod>2020-07-25T19:12:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://duckduck.io/</loc>
+    <loc>http://duckduck.io/posts/</loc>
+    <lastmod>2020-07-25T19:12:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duckduck.io/posts/01-pil%E7%94%9F%E6%88%90%E5%B0%81%E9%9D%A2/</loc>
+    <lastmod>2020-07-25T19:12:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duckduck.io/categories/</loc>
   </url>
   
   <url>

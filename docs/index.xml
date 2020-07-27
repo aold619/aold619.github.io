@@ -6,9 +6,25 @@
     <description>Recent content on duckduck.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jul 2020 19:12:19 +0800</lastBuildDate>
     
     <atom:link href="http://duckduck.io/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>用PIL生成封面</title>
+      <link>http://duckduck.io/posts/01-pil%E7%94%9F%E6%88%90%E5%B0%81%E9%9D%A2/</link>
+      <pubDate>Sat, 25 Jul 2020 19:12:19 +0800</pubDate>
+      
+      <guid>http://duckduck.io/posts/01-pil%E7%94%9F%E6%88%90%E5%B0%81%E9%9D%A2/</guid>
+      <description>
+      
+      题目 Python 题目，要求给指定的图片按照指定的格式合成文字，并且只能使用 PIL 和标准库。
+模板一：
+ 尺寸：封面宽度 80%，高度 20% 位置：垂直居中封面，水平起始于封面高度 60% 处  模板二：
+ 尺寸： 位置：  思路 ...
+      
+      </description>
+    </item>
     
   </channel>
 </rss>
