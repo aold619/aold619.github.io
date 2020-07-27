@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>http://duckduck.io/</loc>
     <lastmod>2020-07-25T19:12:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/first-post/</loc>
+    <loc>http://duckduck.io/posts/first-post/</loc>
     <lastmod>2020-07-25T19:12:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>http://duckduck.io/posts/</loc>
     <lastmod>2020-07-25T19:12:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://duckduck.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://duckduck.io/tags/</loc>
   </url>
   
 </urlset>

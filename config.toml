@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://duckduck.io/"
 languageCode = "en-us"
 title = "DuckCode"
 theme = "hugo-vitae"
