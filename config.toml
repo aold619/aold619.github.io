@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "duckduck.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "DuckCode"
 theme = "noteworthy"
 publishDir = "docs"
