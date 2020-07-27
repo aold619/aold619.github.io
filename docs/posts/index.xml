@@ -2,22 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DuckCode</title>
-    <link>duckduck.io/posts/</link>
-    <description>Recent content in Posts on DuckCode</description>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 19:12:19 +0800</lastBuildDate>
     
-	<atom:link href="duckduck.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Post</title>
-      <link>duckduck.io/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Sat, 25 Jul 2020 19:12:19 +0800</pubDate>
       
-      <guid>duckduck.io/posts/first-post/</guid>
-      <description></description>
+      <guid>/posts/first-post/</guid>
+      <description>
+      
+      
+      
+      </description>
     </item>
     
   </channel>

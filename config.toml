@@ -1,5 +1,5 @@
-baseURL = "duckduck.io"
+baseURL = ""
 languageCode = "en-us"
 title = "DuckCode"
-theme = "noteworthy"
+theme = "hugo-vitae"
 publishDir = "docs"
